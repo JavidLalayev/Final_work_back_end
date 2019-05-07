@@ -1,0 +1,9 @@
+http://ktf.asoiu.edu.az/Admin/Admin/login
+
+username: admin@mail.ru
+password: admin2017
+
+https://mbm.erciyes.edu.tr/?Laboratuvarlar
+https://mbm.erciyes.edu.tr/?Sayfalar=Doktora_Egitim_Plani
+http://muh.karabuk.edu.tr/metalurji/?page=people&no=1
+
